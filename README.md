@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+运营 IT 全栈技术知识库：
+www.yuque.com/it-coach
+
+
+知识库基础体系内容在以上语雀知识库，成体系的完整项目将记录到此 github 中！
+
+后续陆续开放供学习~  欢迎加入、共同进步！
+
 <!--
 **IT-coach-666/IT-coach-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
